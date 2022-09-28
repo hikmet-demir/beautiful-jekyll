@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: My Website
+title: Hikmet Test
 
 # Your name to show in the footer
-author: Some Person
+author: Hikmet Demir
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Hikmet Test"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://hkmetdemir.com"
 
 ################
 # --- Logo --- #
